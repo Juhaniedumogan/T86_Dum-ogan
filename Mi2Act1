@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main()
+{
+    int age = 18;
+    printf("I am Juhanie Dum-ogan, %d years old of age",age);
+    return 0;
+}
